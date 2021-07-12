@@ -1,0 +1,7 @@
+{
+  "name": "BLEterm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
